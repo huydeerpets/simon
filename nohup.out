@@ -1,0 +1,1756 @@
+2018/01/10 17:05:07 [1;34m[I] [config.go:26] debug模式 [0m
+2018/01/10 17:05:07 [1;34m[I] [config.go:36] 连接: redis [0m
+[ORM]2018/01/10 17:05:07 unsupport orm tag content
+2018/01/10 17:05:07 [1;34m[I] [router.go:12] 3 [0m
+2018/01/10 17:05:07 [1;34m[I] [router.go:239] /Users/apple/gopath/src/Gblog/controllers no changed[0m
+2018/01/10 17:05:07 [1;34m[I] [router.go:239] /Users/apple/gopath/src/Gblog/controllers no changed[0m
+2018/01/10 17:05:07 [1;34m[I] [router.go:239] /Users/apple/gopath/src/Gblog/controllers no changed[0m
+2018/01/10 17:05:07 [1;34m[I] [router.go:239] /Users/apple/gopath/src/Gblog/controllers no changed[0m
+2018/01/10 17:05:07 [1;34m[I] [router.go:239] /Users/apple/gopath/src/Gblog/controllers no changed[0m
+2018/01/10 17:05:07 [1;34m[I] [router.go:239] /Users/apple/gopath/src/Gblog/controllers no changed[0m
+2018/01/10 17:05:07 [1;34m[I] [router.go:239] /Users/apple/gopath/src/Gblog/controllers no changed[0m
+2018/01/10 17:05:07 [1;34m[I] [router.go:239] /Users/apple/gopath/src/Gblog/controllers no changed[0m
+2018/01/10 17:05:07 [1;34m[I] [router.go:239] /Users/apple/gopath/src/Gblog/controllers no changed[0m
+2018/01/10 17:05:07 [1;34m[I] [router.go:239] /Users/apple/gopath/src/Gblog/controllers no changed[0m
+2018/01/10 17:05:07 [1;34m[I] [router.go:239] /Users/apple/gopath/src/Gblog/controllers no changed[0m
+2018/01/10 17:05:07 [1;34m[I] [main.go:22] 1 [0m
+2018/01/10 17:05:07 [1;34m[I] [main.go:23] root:Jcl15705842892@tcp(rm-bp189q8e283gdcc6qyo.mysql.rds.aliyuncs.com:3306)/database?charset=utf8mb4&loc=Asia%2FShanghai [0m
+2018/01/10 17:05:07 [1;34m[I] [main.go:16] 2 [0m
+2018/01/10 17:05:07 [1;34m[I] [asm_amd64.s:2337] http server Running on http://:8888[0m
+2018/01/10 17:05:07 [1;35m[C] [asm_amd64.s:2337] ListenAndServe:  listen tcp :8888: bind: address already in use[0m
+2018/06/05 22:11:08 [1;34m[I] [config.go:26] debug模式 [0m
+2018/06/05 22:11:08 [1;34m[I] [config.go:36] 连接: redis [0m
+[ORM]2018/06/05 22:11:08 unsupport orm tag content
+2018/06/05 22:11:08 [1;34m[I] [router.go:12] 3 [0m
+2018/06/05 22:11:08 [1;34m[I] [router.go:239] /Users/apple/gopath/src/Gblog/controllers no changed[0m
+2018/06/05 22:11:08 [1;34m[I] [router.go:239] /Users/apple/gopath/src/Gblog/controllers no changed[0m
+2018/06/05 22:11:08 [1;34m[I] [router.go:239] /Users/apple/gopath/src/Gblog/controllers no changed[0m
+2018/06/05 22:11:08 [1;34m[I] [router.go:239] /Users/apple/gopath/src/Gblog/controllers no changed[0m
+2018/06/05 22:11:08 [1;34m[I] [router.go:239] /Users/apple/gopath/src/Gblog/controllers no changed[0m
+2018/06/05 22:11:08 [1;34m[I] [router.go:239] /Users/apple/gopath/src/Gblog/controllers no changed[0m
+2018/06/05 22:11:08 [1;34m[I] [router.go:239] /Users/apple/gopath/src/Gblog/controllers no changed[0m
+2018/06/05 22:11:08 [1;34m[I] [router.go:239] /Users/apple/gopath/src/Gblog/controllers no changed[0m
+2018/06/05 22:11:08 [1;34m[I] [router.go:239] /Users/apple/gopath/src/Gblog/controllers no changed[0m
+2018/06/05 22:11:08 [1;34m[I] [router.go:239] /Users/apple/gopath/src/Gblog/controllers no changed[0m
+2018/06/05 22:11:08 [1;34m[I] [router.go:239] /Users/apple/gopath/src/Gblog/controllers no changed[0m
+2018/06/05 22:11:08 [1;34m[I] [main.go:22] 1 [0m
+2018/06/05 22:11:08 [1;34m[I] [main.go:23] root:Jcl15705842892@tcp(rm-bp189q8e283gdcc6qyo.mysql.rds.aliyuncs.com:3306)/database?charset=utf8mb4&loc=Asia%2FShanghai [0m
+2018/06/05 22:11:08 [1;34m[I] [main.go:16] 2 [0m
+2018/06/05 22:11:08 [1;34m[I] [asm_amd64.s:2337] http server Running on http://:8888[0m
+2018/06/05 22:11:14 [1;34m[I] [router.go:15] === [0m
+2018/06/05 22:11:14 [1;34m[I] [router.go:16] --- false [0m
+2018/06/05 22:11:14 [1;34m[I] [paginator.go:58] &{1 30 0 6 0 0 /admin/article} [0m
+2018/06/05 22:11:14 [1;34m[I] [paginator.go:27] 0.6 [0m
+2018/06/05 22:11:14 [1;34m[I] [paginator.go:67] 1 [0m
+2018/06/05 22:11:14 [1;34m[I] [paginator.go:69] 1 [0m
+2018/06/05 22:11:14 [1;34m[I] [paginator.go:72] buf [0m
+2018/06/05 22:11:14 [1;34m[I] [paginator.go:80] {[60 117 108 32 99 108 97 115 115 61 34 112 97 103 105 110 97 116 105 111 110 34 62 60 108 105 32 99 108 97 115 115 61 34 97 99 116 105 118 101 34 62 60 97 32 104 114 101 102 61 34 106 97 118 97 115 99 114 105 112 116 58 118 111 105 100 40 48 41 59 34 62 49] 0 0 [60 117 108 32 99 108 97 115 115 61 34 112 97 103 105 110 97 116 105 111 110 34 62 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]} [0m
+2018/06/05 22:11:14 [1;34m[I] [paginator.go:95] <ul class="pagination"><li class="active"><a href="javascript:void(0);">1</a></li><li><a href="javascript:void(0);">1/1</a></li></ul> [0m
+2018/06/05 22:11:15 [1;34m[D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|  27.407534ms|   match|[44m GET     [0m /admin/article   r:/admin/article[0m
+2018/06/05 22:11:15 [1;34m[D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|    196.068µs|   match|[44m GET     [0m /static/images/favicon.ico[0m
+2018/06/05 22:11:19 [1;34m[I] [category.go:77] [{64 golang  使用neo4j golang   neo4j 1. neo4j是图形数据库
+2.用于关系形的数据存储
+
+3 golang  使用 github.com/johnnadratowski/golang-neo4j-bolt-driver   neo4j驱动 1. neo4j是图形数据库
+2.用于关系形的数据存储
+
+3 golang  使用 github.com/johnnadratowski/golang-neo4j-bolt-driver   neo4j驱动
+
+
+(1)初始化neo4j 连接
+var conn bolt.Conn
+//neo4j 连接
+func GetNeo4jSession() (conn bolt.Conn) {
+    driver := bolt.NewDriver()
+    conn, err := driver.OpenNeo(NEO4J_URL)
+    if err != nil {
+        beego.Error("neo4j连接失败:", err)
+    }
+    return
+}
+
+func init() {
+    conn = GetNeo4jSession()
+}
+
+
+
+
+type User struct {
+    Id int
+    Uid int
+    Name string
+    Age int
+}
+(2)简单创建一个node对象
+func QuickNdirty(u *User) {
+    conn := utils.GetNeo4jSession()
+    defer conn.Close()
+    userMap := map[string]interface{}{"uid": u.Uid, "name": u.Name, "age": u.Age}
+    //创建 node
+    cql := `CREATE ( n:NODE {uid :{uid},name:{name},age:{age}})`
+    result, err := conn.ExecNeo(cql, userMap)
+    if err != nil {
+        beego.Info(err)
+    }
+    beego.Info(result)
+}
+
+  2 0xc4201927e0 0xc42025b800 2018-01-08 17:16:37 +0800 CST 2018-01-08 17:16:37 +0800 CST} {62 go 原生库 golang golang 原生库学习 func init() {
+    //字符串是否相同
+    a := "111"
+    b := "222"
+    flag := strings.EqualFold(a, b)
+    beego.Info(flag)
+
+    //前缀字符串
+    a = "a"
+    b = "a_b"
+    flag = strings.HasPrefix(b, a)
+    beego.Info(flag)
+
+    //后缀字符串
+    flag = strings.HasSuffix(b, a)
+    beego.Info(flag)
+
+    //b包含a 是否子串
+    flag = strings.Contains(b, a)
+    beego.Info(flag)
+
+    //b包含s rune[0] utf-8码值
+    s := []rune(b)
+    flag = strings.ContainsRune(b, s[0])
+    beego.Info(flag)
+
+    //b是否包含c中的任意字符
+    c := "a312"
+    flag = strings.ContainsAny(b, c)
+    beego.Info(flag)
+
+    //c中有几个不重复的a
+    con := strings.Count(c, a)
+    beego.Info(con)
+
+    //a在b的下标位置
+    idx := strings.Index(c, a)
+    beego.Info(idx)
+
+    w := byte(1)
+    idxb := strings.IndexByte(c, w)
+    beego.Info(idxb)
+}
+  12 0xc4201928c0 0xc42025b880 2018-01-07 20:43:04 +0800 CST 2018-01-07 20:43:04 +0800 CST}] [0m
+2018/06/05 22:11:19 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:11:19 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:11:19 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:11:19 [1;34m[I] [paginator.go:58] &{1 0 0 6 0 0 /} [0m
+2018/06/05 22:11:19 [1;34m[I] [paginator.go:27] 0.6 [0m
+2018/06/05 22:11:19 [1;34m[I] [paginator.go:67] 1 [0m
+2018/06/05 22:11:19 [1;34m[I] [paginator.go:69] 1 [0m
+2018/06/05 22:11:19 [1;34m[I] [paginator.go:72] buf [0m
+2018/06/05 22:11:19 [1;34m[I] [paginator.go:80] {[60 117 108 32 99 108 97 115 115 61 34 112 97 103 105 110 97 116 105 111 110 34 62 60 108 105 32 99 108 97 115 115 61 34 97 99 116 105 118 101 34 62 60 97 32 104 114 101 102 61 34 106 97 118 97 115 99 114 105 112 116 58 118 111 105 100 40 48 41 59 34 62 49] 0 0 [60 117 108 32 99 108 97 115 115 61 34 112 97 103 105 110 97 116 105 111 110 34 62 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]} [0m
+2018/06/05 22:11:19 [1;34m[I] [paginator.go:95] <ul class="pagination"><li class="active"><a href="javascript:void(0);">1</a></li><li><a href="javascript:void(0);">1/1</a></li></ul> [0m
+2018/06/05 22:11:19 [1;34m[D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|   289.3024ms|   match|[44m GET     [0m /     r:/[0m
+2018/06/05 22:11:19 [1;34m[D] [server.go:2619] |      127.0.0.1|[47m 304 [0m|    421.051µs|   match|[44m GET     [0m /static/images/github.png[0m
+2018/06/05 22:11:19 [1;34m[D] [server.go:2619] |      127.0.0.1|[47m 304 [0m|    445.827µs|   match|[44m GET     [0m /static/images/weibo.png[0m
+2018/06/05 22:12:05 [1;34m[I] [category.go:77] [{64 golang  使用neo4j golang   neo4j 1. neo4j是图形数据库
+2.用于关系形的数据存储
+
+3 golang  使用 github.com/johnnadratowski/golang-neo4j-bolt-driver   neo4j驱动 1. neo4j是图形数据库
+2.用于关系形的数据存储
+
+3 golang  使用 github.com/johnnadratowski/golang-neo4j-bolt-driver   neo4j驱动
+
+
+(1)初始化neo4j 连接
+var conn bolt.Conn
+//neo4j 连接
+func GetNeo4jSession() (conn bolt.Conn) {
+    driver := bolt.NewDriver()
+    conn, err := driver.OpenNeo(NEO4J_URL)
+    if err != nil {
+        beego.Error("neo4j连接失败:", err)
+    }
+    return
+}
+
+func init() {
+    conn = GetNeo4jSession()
+}
+
+
+
+
+type User struct {
+    Id int
+    Uid int
+    Name string
+    Age int
+}
+(2)简单创建一个node对象
+func QuickNdirty(u *User) {
+    conn := utils.GetNeo4jSession()
+    defer conn.Close()
+    userMap := map[string]interface{}{"uid": u.Uid, "name": u.Name, "age": u.Age}
+    //创建 node
+    cql := `CREATE ( n:NODE {uid :{uid},name:{name},age:{age}})`
+    result, err := conn.ExecNeo(cql, userMap)
+    if err != nil {
+        beego.Info(err)
+    }
+    beego.Info(result)
+}
+
+  2 0xc4204e6000 0xc4203b6080 2018-01-08 17:16:37 +0800 CST 2018-01-08 17:16:37 +0800 CST} {62 go 原生库 golang golang 原生库学习 func init() {
+    //字符串是否相同
+    a := "111"
+    b := "222"
+    flag := strings.EqualFold(a, b)
+    beego.Info(flag)
+
+    //前缀字符串
+    a = "a"
+    b = "a_b"
+    flag = strings.HasPrefix(b, a)
+    beego.Info(flag)
+
+    //后缀字符串
+    flag = strings.HasSuffix(b, a)
+    beego.Info(flag)
+
+    //b包含a 是否子串
+    flag = strings.Contains(b, a)
+    beego.Info(flag)
+
+    //b包含s rune[0] utf-8码值
+    s := []rune(b)
+    flag = strings.ContainsRune(b, s[0])
+    beego.Info(flag)
+
+    //b是否包含c中的任意字符
+    c := "a312"
+    flag = strings.ContainsAny(b, c)
+    beego.Info(flag)
+
+    //c中有几个不重复的a
+    con := strings.Count(c, a)
+    beego.Info(con)
+
+    //a在b的下标位置
+    idx := strings.Index(c, a)
+    beego.Info(idx)
+
+    w := byte(1)
+    idxb := strings.IndexByte(c, w)
+    beego.Info(idxb)
+}
+  12 0xc4204e6070 0xc4203b6100 2018-01-07 20:43:04 +0800 CST 2018-01-07 20:43:04 +0800 CST}] [0m
+2018/06/05 22:12:06 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:12:06 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:12:06 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:12:06 [1;34m[I] [paginator.go:58] &{1 0 0 6 0 0 /} [0m
+2018/06/05 22:12:06 [1;34m[I] [paginator.go:27] 0.6 [0m
+2018/06/05 22:12:06 [1;34m[I] [paginator.go:67] 1 [0m
+2018/06/05 22:12:06 [1;34m[I] [paginator.go:69] 1 [0m
+2018/06/05 22:12:06 [1;34m[I] [paginator.go:72] buf [0m
+2018/06/05 22:12:06 [1;34m[I] [paginator.go:80] {[60 117 108 32 99 108 97 115 115 61 34 112 97 103 105 110 97 116 105 111 110 34 62 60 108 105 32 99 108 97 115 115 61 34 97 99 116 105 118 101 34 62 60 97 32 104 114 101 102 61 34 106 97 118 97 115 99 114 105 112 116 58 118 111 105 100 40 48 41 59 34 62 49] 0 0 [60 117 108 32 99 108 97 115 115 61 34 112 97 103 105 110 97 116 105 111 110 34 62 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]} [0m
+2018/06/05 22:12:06 [1;34m[I] [paginator.go:95] <ul class="pagination"><li class="active"><a href="javascript:void(0);">1</a></li><li><a href="javascript:void(0);">1/1</a></li></ul> [0m
+2018/06/05 22:12:06 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m| 309.908023ms|   match|[44m GET     [0m /     r:/[0m
+2018/06/05 22:12:10 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|   1.875952ms|   match|[44m GET     [0m /static/css/customer.css[0m
+2018/06/05 22:12:10 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|    2.09282ms|   match|[44m GET     [0m /static/css/app.css[0m
+2018/06/05 22:12:12 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|   1.848652ms|   match|[44m GET     [0m /static/css/font-awesome.min.css[0m
+2018/06/05 22:12:29 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|    2.49335ms|   match|[44m GET     [0m /static/js/jquery-1.9.1.min.js[0m
+2018/06/05 22:12:45 [1;34m[D] [server.go:2619] |  112.10.110.45|[43m 404 [0m|   2.305691ms| nomatch|[44m GET     [0m /favicon.ico[0m
+2018/06/05 22:13:06 [1;34m[I] [category.go:77] [{64 golang  使用neo4j golang   neo4j 1. neo4j是图形数据库
+2.用于关系形的数据存储
+
+3 golang  使用 github.com/johnnadratowski/golang-neo4j-bolt-driver   neo4j驱动 1. neo4j是图形数据库
+2.用于关系形的数据存储
+
+3 golang  使用 github.com/johnnadratowski/golang-neo4j-bolt-driver   neo4j驱动
+
+
+(1)初始化neo4j 连接
+var conn bolt.Conn
+//neo4j 连接
+func GetNeo4jSession() (conn bolt.Conn) {
+    driver := bolt.NewDriver()
+    conn, err := driver.OpenNeo(NEO4J_URL)
+    if err != nil {
+        beego.Error("neo4j连接失败:", err)
+    }
+    return
+}
+
+func init() {
+    conn = GetNeo4jSession()
+}
+
+
+
+
+type User struct {
+    Id int
+    Uid int
+    Name string
+    Age int
+}
+(2)简单创建一个node对象
+func QuickNdirty(u *User) {
+    conn := utils.GetNeo4jSession()
+    defer conn.Close()
+    userMap := map[string]interface{}{"uid": u.Uid, "name": u.Name, "age": u.Age}
+    //创建 node
+    cql := `CREATE ( n:NODE {uid :{uid},name:{name},age:{age}})`
+    result, err := conn.ExecNeo(cql, userMap)
+    if err != nil {
+        beego.Info(err)
+    }
+    beego.Info(result)
+}
+
+  2 0xc4204e7030 0xc420506f00 2018-01-08 17:16:37 +0800 CST 2018-01-08 17:16:37 +0800 CST} {62 go 原生库 golang golang 原生库学习 func init() {
+    //字符串是否相同
+    a := "111"
+    b := "222"
+    flag := strings.EqualFold(a, b)
+    beego.Info(flag)
+
+    //前缀字符串
+    a = "a"
+    b = "a_b"
+    flag = strings.HasPrefix(b, a)
+    beego.Info(flag)
+
+    //后缀字符串
+    flag = strings.HasSuffix(b, a)
+    beego.Info(flag)
+
+    //b包含a 是否子串
+    flag = strings.Contains(b, a)
+    beego.Info(flag)
+
+    //b包含s rune[0] utf-8码值
+    s := []rune(b)
+    flag = strings.ContainsRune(b, s[0])
+    beego.Info(flag)
+
+    //b是否包含c中的任意字符
+    c := "a312"
+    flag = strings.ContainsAny(b, c)
+    beego.Info(flag)
+
+    //c中有几个不重复的a
+    con := strings.Count(c, a)
+    beego.Info(con)
+
+    //a在b的下标位置
+    idx := strings.Index(c, a)
+    beego.Info(idx)
+
+    w := byte(1)
+    idxb := strings.IndexByte(c, w)
+    beego.Info(idxb)
+}
+  12 0xc4204e70a0 0xc420506f80 2018-01-07 20:43:04 +0800 CST 2018-01-07 20:43:04 +0800 CST}] [0m
+2018/06/05 22:13:06 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:13:06 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:13:06 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:13:06 [1;34m[I] [paginator.go:58] &{1 0 0 6 0 0 /} [0m
+2018/06/05 22:13:06 [1;34m[I] [paginator.go:27] 0.6 [0m
+2018/06/05 22:13:06 [1;34m[I] [paginator.go:67] 1 [0m
+2018/06/05 22:13:06 [1;34m[I] [paginator.go:69] 1 [0m
+2018/06/05 22:13:06 [1;34m[I] [paginator.go:72] buf [0m
+2018/06/05 22:13:06 [1;34m[I] [paginator.go:80] {[60 117 108 32 99 108 97 115 115 61 34 112 97 103 105 110 97 116 105 111 110 34 62 60 108 105 32 99 108 97 115 115 61 34 97 99 116 105 118 101 34 62 60 97 32 104 114 101 102 61 34 106 97 118 97 115 99 114 105 112 116 58 118 111 105 100 40 48 41 59 34 62 49] 0 0 [60 117 108 32 99 108 97 115 115 61 34 112 97 103 105 110 97 116 105 111 110 34 62 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]} [0m
+2018/06/05 22:13:06 [1;34m[I] [paginator.go:95] <ul class="pagination"><li class="active"><a href="javascript:void(0);">1</a></li><li><a href="javascript:void(0);">1/1</a></li></ul> [0m
+2018/06/05 22:13:06 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m| 282.542274ms|   match|[44m GET     [0m /     r:/[0m
+2018/06/05 22:13:08 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|    135.292µs|   match|[44m GET     [0m /static/css/customer.css[0m
+2018/06/05 22:13:08 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|    198.983µs|   match|[44m GET     [0m /static/css/app.css[0m
+2018/06/05 22:13:09 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|   2.142083ms|   match|[44m GET     [0m /static/1.0.8/iconfont.css[0m
+2018/06/05 22:13:09 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|    664.146µs|   match|[44m GET     [0m /static/css/font-awesome.min.css[0m
+2018/06/05 22:13:10 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|   1.782602ms|   match|[44m GET     [0m /static/js/bootstrap.min.js[0m
+2018/06/05 22:13:10 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|    132.098µs|   match|[44m GET     [0m /static/1.0.8/iconfont.css[0m
+2018/06/05 22:13:11 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|    173.687µs|   match|[44m GET     [0m /static/js/jquery-1.9.1.min.js[0m
+2018/06/05 22:13:13 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|   1.944113ms|   match|[44m GET     [0m /static/js/common.js[0m
+2018/06/05 22:13:33 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|    188.602µs|   match|[44m GET     [0m /static/js/common.js[0m
+2018/06/05 22:13:34 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|   8.197753ms|   match|[44m GET     [0m /static/images/top.png[0m
+2018/06/05 22:13:35 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|    129.042µs|   match|[44m GET     [0m /static/images/favicon.ico[0m
+2018/06/05 22:13:42 [1;34m[I] [category.go:77] [{64 golang  使用neo4j golang   neo4j 1. neo4j是图形数据库
+2.用于关系形的数据存储
+
+3 golang  使用 github.com/johnnadratowski/golang-neo4j-bolt-driver   neo4j驱动 1. neo4j是图形数据库
+2.用于关系形的数据存储
+
+3 golang  使用 github.com/johnnadratowski/golang-neo4j-bolt-driver   neo4j驱动
+
+
+(1)初始化neo4j 连接
+var conn bolt.Conn
+//neo4j 连接
+func GetNeo4jSession() (conn bolt.Conn) {
+    driver := bolt.NewDriver()
+    conn, err := driver.OpenNeo(NEO4J_URL)
+    if err != nil {
+        beego.Error("neo4j连接失败:", err)
+    }
+    return
+}
+
+func init() {
+    conn = GetNeo4jSession()
+}
+
+
+
+
+type User struct {
+    Id int
+    Uid int
+    Name string
+    Age int
+}
+(2)简单创建一个node对象
+func QuickNdirty(u *User) {
+    conn := utils.GetNeo4jSession()
+    defer conn.Close()
+    userMap := map[string]interface{}{"uid": u.Uid, "name": u.Name, "age": u.Age}
+    //创建 node
+    cql := `CREATE ( n:NODE {uid :{uid},name:{name},age:{age}})`
+    result, err := conn.ExecNeo(cql, userMap)
+    if err != nil {
+        beego.Info(err)
+    }
+    beego.Info(result)
+}
+
+  2 0xc4200f20e0 0xc420506400 2018-01-08 17:16:37 +0800 CST 2018-01-08 17:16:37 +0800 CST} {62 go 原生库 golang golang 原生库学习 func init() {
+    //字符串是否相同
+    a := "111"
+    b := "222"
+    flag := strings.EqualFold(a, b)
+    beego.Info(flag)
+
+    //前缀字符串
+    a = "a"
+    b = "a_b"
+    flag = strings.HasPrefix(b, a)
+    beego.Info(flag)
+
+    //后缀字符串
+    flag = strings.HasSuffix(b, a)
+    beego.Info(flag)
+
+    //b包含a 是否子串
+    flag = strings.Contains(b, a)
+    beego.Info(flag)
+
+    //b包含s rune[0] utf-8码值
+    s := []rune(b)
+    flag = strings.ContainsRune(b, s[0])
+    beego.Info(flag)
+
+    //b是否包含c中的任意字符
+    c := "a312"
+    flag = strings.ContainsAny(b, c)
+    beego.Info(flag)
+
+    //c中有几个不重复的a
+    con := strings.Count(c, a)
+    beego.Info(con)
+
+    //a在b的下标位置
+    idx := strings.Index(c, a)
+    beego.Info(idx)
+
+    w := byte(1)
+    idxb := strings.IndexByte(c, w)
+    beego.Info(idxb)
+}
+  12 0xc4200f21c0 0xc420506480 2018-01-07 20:43:04 +0800 CST 2018-01-07 20:43:04 +0800 CST}] [0m
+2018/06/05 22:13:42 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:13:42 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:13:42 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:13:42 [1;34m[I] [paginator.go:58] &{1 0 0 6 0 0 /} [0m
+2018/06/05 22:13:42 [1;34m[I] [paginator.go:27] 0.6 [0m
+2018/06/05 22:13:42 [1;34m[I] [paginator.go:67] 1 [0m
+2018/06/05 22:13:42 [1;34m[I] [paginator.go:69] 1 [0m
+2018/06/05 22:13:42 [1;34m[I] [paginator.go:72] buf [0m
+2018/06/05 22:13:42 [1;34m[I] [paginator.go:80] {[60 117 108 32 99 108 97 115 115 61 34 112 97 103 105 110 97 116 105 111 110 34 62 60 108 105 32 99 108 97 115 115 61 34 97 99 116 105 118 101 34 62 60 97 32 104 114 101 102 61 34 106 97 118 97 115 99 114 105 112 116 58 118 111 105 100 40 48 41 59 34 62 49] 0 0 [60 117 108 32 99 108 97 115 115 61 34 112 97 103 105 110 97 116 105 111 110 34 62 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]} [0m
+2018/06/05 22:13:42 [1;34m[I] [paginator.go:95] <ul class="pagination"><li class="active"><a href="javascript:void(0);">1</a></li><li><a href="javascript:void(0);">1/1</a></li></ul> [0m
+2018/06/05 22:13:42 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m| 338.115868ms|   match|[44m GET     [0m /     r:/[0m
+2018/06/05 22:13:45 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 206 [0m|    173.155µs|   match|[44m GET     [0m /static/css/app.css[0m
+2018/06/05 22:13:46 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|    263.574µs|   match|[44m GET     [0m /static/css/font-awesome.min.css[0m
+2018/06/05 22:13:46 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|    300.301µs|   match|[44m GET     [0m /static/1.0.8/iconfont.css[0m
+2018/06/05 22:13:46 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 206 [0m|    204.865µs|   match|[44m GET     [0m /static/css/app.css[0m
+2018/06/05 22:13:47 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|    321.392µs|   match|[44m GET     [0m /static/js/jquery-1.9.1.min.js[0m
+2018/06/05 22:13:48 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|    298.016µs|   match|[44m GET     [0m /static/js/bootstrap.min.js[0m
+2018/06/05 22:13:49 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|   1.808897ms|   match|[44m GET     [0m /static/images/logo.svg[0m
+2018/06/05 22:13:49 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|    117.244µs|   match|[44m GET     [0m /static/images/github.png[0m
+2018/06/05 22:13:51 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|    276.088µs|   match|[44m GET     [0m /static/images/weibo.png[0m
+2018/06/05 22:13:58 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|   2.940387ms|   match|[44m GET     [0m /static/fonts/fontawesome-webfont.woff2[0m
+2018/06/05 22:14:02 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|     122.52µs|   match|[44m GET     [0m /static/images/favicon.ico[0m
+2018/06/05 22:14:46 [1;34m[I] [category.go:77] [{64 golang  使用neo4j golang   neo4j 1. neo4j是图形数据库
+2.用于关系形的数据存储
+
+3 golang  使用 github.com/johnnadratowski/golang-neo4j-bolt-driver   neo4j驱动 1. neo4j是图形数据库
+2.用于关系形的数据存储
+
+3 golang  使用 github.com/johnnadratowski/golang-neo4j-bolt-driver   neo4j驱动
+
+
+(1)初始化neo4j 连接
+var conn bolt.Conn
+//neo4j 连接
+func GetNeo4jSession() (conn bolt.Conn) {
+    driver := bolt.NewDriver()
+    conn, err := driver.OpenNeo(NEO4J_URL)
+    if err != nil {
+        beego.Error("neo4j连接失败:", err)
+    }
+    return
+}
+
+func init() {
+    conn = GetNeo4jSession()
+}
+
+
+
+
+type User struct {
+    Id int
+    Uid int
+    Name string
+    Age int
+}
+(2)简单创建一个node对象
+func QuickNdirty(u *User) {
+    conn := utils.GetNeo4jSession()
+    defer conn.Close()
+    userMap := map[string]interface{}{"uid": u.Uid, "name": u.Name, "age": u.Age}
+    //创建 node
+    cql := `CREATE ( n:NODE {uid :{uid},name:{name},age:{age}})`
+    result, err := conn.ExecNeo(cql, userMap)
+    if err != nil {
+        beego.Info(err)
+    }
+    beego.Info(result)
+}
+
+  2 0xc4200f3420 0xc420263480 2018-01-08 17:16:37 +0800 CST 2018-01-08 17:16:37 +0800 CST} {62 go 原生库 golang golang 原生库学习 func init() {
+    //字符串是否相同
+    a := "111"
+    b := "222"
+    flag := strings.EqualFold(a, b)
+    beego.Info(flag)
+
+    //前缀字符串
+    a = "a"
+    b = "a_b"
+    flag = strings.HasPrefix(b, a)
+    beego.Info(flag)
+
+    //后缀字符串
+    flag = strings.HasSuffix(b, a)
+    beego.Info(flag)
+
+    //b包含a 是否子串
+    flag = strings.Contains(b, a)
+    beego.Info(flag)
+
+    //b包含s rune[0] utf-8码值
+    s := []rune(b)
+    flag = strings.ContainsRune(b, s[0])
+    beego.Info(flag)
+
+    //b是否包含c中的任意字符
+    c := "a312"
+    flag = strings.ContainsAny(b, c)
+    beego.Info(flag)
+
+    //c中有几个不重复的a
+    con := strings.Count(c, a)
+    beego.Info(con)
+
+    //a在b的下标位置
+    idx := strings.Index(c, a)
+    beego.Info(idx)
+
+    w := byte(1)
+    idxb := strings.IndexByte(c, w)
+    beego.Info(idxb)
+}
+  12 0xc4200f3500 0xc420263500 2018-01-07 20:43:04 +0800 CST 2018-01-07 20:43:04 +0800 CST}] [0m
+2018/06/05 22:14:46 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:14:46 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:14:46 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:14:47 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m| 322.064451ms|   match|[44m GET     [0m /article/67   r:/article/:id[0m
+2018/06/05 22:14:48 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|    1.93189ms|   match|[44m GET     [0m /static/js/lib/marked.min.js[0m
+2018/06/05 22:14:50 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|   2.508242ms|   match|[44m GET     [0m /static/css/editormd.css[0m
+2018/06/05 22:14:50 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|   1.962533ms|   match|[44m GET     [0m /static/js/lib/prettify.min.js[0m
+2018/06/05 22:14:52 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|   8.584393ms|   match|[44m GET     [0m /static/js/lib/raphael.min.js[0m
+2018/06/05 22:14:56 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|   3.543627ms|   match|[44m GET     [0m /static/js/lib/underscore.min.js[0m
+2018/06/05 22:14:58 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|   2.633661ms|   match|[44m GET     [0m /static/js/lib/sequence-diagram.min.js[0m
+2018/06/05 22:15:00 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|   1.573179ms|   match|[44m GET     [0m /static/js/lib/jquery.flowchart.min.js[0m
+2018/06/05 22:15:00 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|    566.663µs|   match|[44m GET     [0m /static/fonts/fontawesome-webfont.woff2[0m
+2018/06/05 22:15:00 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|   4.066808ms|   match|[44m GET     [0m /static/js/lib/flowchart.min.js[0m
+2018/06/05 22:15:00 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|   5.043103ms|   match|[44m GET     [0m /static/js/editormd.min.js[0m
+2018/06/05 22:15:05 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|    843.651µs|   match|[44m GET     [0m /static/uploads/picture/2018/06/05/hY6M7tE0.jpeg[0m
+2018/06/05 22:15:05 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|   1.752869ms|   match|[44m GET     [0m /static/uploads/picture/2018/06/05/NW6CYU20.jpeg[0m
+2018/06/05 22:18:38 [1;34m[I] [category.go:77] [{64 golang  使用neo4j golang   neo4j 1. neo4j是图形数据库
+2.用于关系形的数据存储
+
+3 golang  使用 github.com/johnnadratowski/golang-neo4j-bolt-driver   neo4j驱动 1. neo4j是图形数据库
+2.用于关系形的数据存储
+
+3 golang  使用 github.com/johnnadratowski/golang-neo4j-bolt-driver   neo4j驱动
+
+
+(1)初始化neo4j 连接
+var conn bolt.Conn
+//neo4j 连接
+func GetNeo4jSession() (conn bolt.Conn) {
+    driver := bolt.NewDriver()
+    conn, err := driver.OpenNeo(NEO4J_URL)
+    if err != nil {
+        beego.Error("neo4j连接失败:", err)
+    }
+    return
+}
+
+func init() {
+    conn = GetNeo4jSession()
+}
+
+
+
+
+type User struct {
+    Id int
+    Uid int
+    Name string
+    Age int
+}
+(2)简单创建一个node对象
+func QuickNdirty(u *User) {
+    conn := utils.GetNeo4jSession()
+    defer conn.Close()
+    userMap := map[string]interface{}{"uid": u.Uid, "name": u.Name, "age": u.Age}
+    //创建 node
+    cql := `CREATE ( n:NODE {uid :{uid},name:{name},age:{age}})`
+    result, err := conn.ExecNeo(cql, userMap)
+    if err != nil {
+        beego.Info(err)
+    }
+    beego.Info(result)
+}
+
+  2 0xc4200f20e0 0xc42025a280 2018-01-08 17:16:37 +0800 CST 2018-01-08 17:16:37 +0800 CST} {62 go 原生库 golang golang 原生库学习 func init() {
+    //字符串是否相同
+    a := "111"
+    b := "222"
+    flag := strings.EqualFold(a, b)
+    beego.Info(flag)
+
+    //前缀字符串
+    a = "a"
+    b = "a_b"
+    flag = strings.HasPrefix(b, a)
+    beego.Info(flag)
+
+    //后缀字符串
+    flag = strings.HasSuffix(b, a)
+    beego.Info(flag)
+
+    //b包含a 是否子串
+    flag = strings.Contains(b, a)
+    beego.Info(flag)
+
+    //b包含s rune[0] utf-8码值
+    s := []rune(b)
+    flag = strings.ContainsRune(b, s[0])
+    beego.Info(flag)
+
+    //b是否包含c中的任意字符
+    c := "a312"
+    flag = strings.ContainsAny(b, c)
+    beego.Info(flag)
+
+    //c中有几个不重复的a
+    con := strings.Count(c, a)
+    beego.Info(con)
+
+    //a在b的下标位置
+    idx := strings.Index(c, a)
+    beego.Info(idx)
+
+    w := byte(1)
+    idxb := strings.IndexByte(c, w)
+    beego.Info(idxb)
+}
+  12 0xc4200f2230 0xc42025a380 2018-01-07 20:43:04 +0800 CST 2018-01-07 20:43:04 +0800 CST}] [0m
+2018/06/05 22:18:38 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:18:38 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:18:38 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:18:38 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m| 300.440106ms|   match|[44m GET     [0m /article/67   r:/article/:id[0m
+2018/06/05 22:18:41 [1;34m[D] [server.go:2619] |  112.10.110.45|[47m 304 [0m|    101.683µs|   match|[44m GET     [0m /static/uploads/picture/2018/06/05/hY6M7tE0.jpeg[0m
+2018/06/05 22:18:41 [1;34m[D] [server.go:2619] |  112.10.110.45|[47m 304 [0m|     90.821µs|   match|[44m GET     [0m /static/uploads/picture/2018/06/05/NW6CYU20.jpeg[0m
+2018/06/05 22:19:14 [1;34m[I] [category.go:77] [{64 golang  使用neo4j golang   neo4j 1. neo4j是图形数据库
+2.用于关系形的数据存储
+
+3 golang  使用 github.com/johnnadratowski/golang-neo4j-bolt-driver   neo4j驱动 1. neo4j是图形数据库
+2.用于关系形的数据存储
+
+3 golang  使用 github.com/johnnadratowski/golang-neo4j-bolt-driver   neo4j驱动
+
+
+(1)初始化neo4j 连接
+var conn bolt.Conn
+//neo4j 连接
+func GetNeo4jSession() (conn bolt.Conn) {
+    driver := bolt.NewDriver()
+    conn, err := driver.OpenNeo(NEO4J_URL)
+    if err != nil {
+        beego.Error("neo4j连接失败:", err)
+    }
+    return
+}
+
+func init() {
+    conn = GetNeo4jSession()
+}
+
+
+
+
+type User struct {
+    Id int
+    Uid int
+    Name string
+    Age int
+}
+(2)简单创建一个node对象
+func QuickNdirty(u *User) {
+    conn := utils.GetNeo4jSession()
+    defer conn.Close()
+    userMap := map[string]interface{}{"uid": u.Uid, "name": u.Name, "age": u.Age}
+    //创建 node
+    cql := `CREATE ( n:NODE {uid :{uid},name:{name},age:{age}})`
+    result, err := conn.ExecNeo(cql, userMap)
+    if err != nil {
+        beego.Info(err)
+    }
+    beego.Info(result)
+}
+
+  2 0xc4200f3b90 0xc420287100 2018-01-08 17:16:37 +0800 CST 2018-01-08 17:16:37 +0800 CST} {62 go 原生库 golang golang 原生库学习 func init() {
+    //字符串是否相同
+    a := "111"
+    b := "222"
+    flag := strings.EqualFold(a, b)
+    beego.Info(flag)
+
+    //前缀字符串
+    a = "a"
+    b = "a_b"
+    flag = strings.HasPrefix(b, a)
+    beego.Info(flag)
+
+    //后缀字符串
+    flag = strings.HasSuffix(b, a)
+    beego.Info(flag)
+
+    //b包含a 是否子串
+    flag = strings.Contains(b, a)
+    beego.Info(flag)
+
+    //b包含s rune[0] utf-8码值
+    s := []rune(b)
+    flag = strings.ContainsRune(b, s[0])
+    beego.Info(flag)
+
+    //b是否包含c中的任意字符
+    c := "a312"
+    flag = strings.ContainsAny(b, c)
+    beego.Info(flag)
+
+    //c中有几个不重复的a
+    con := strings.Count(c, a)
+    beego.Info(con)
+
+    //a在b的下标位置
+    idx := strings.Index(c, a)
+    beego.Info(idx)
+
+    w := byte(1)
+    idxb := strings.IndexByte(c, w)
+    beego.Info(idxb)
+}
+  12 0xc4200f3c00 0xc420287180 2018-01-07 20:43:04 +0800 CST 2018-01-07 20:43:04 +0800 CST}] [0m
+2018/06/05 22:19:14 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:19:14 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:19:14 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:19:14 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m| 322.596519ms|   match|[44m GET     [0m /article/67   r:/article/:id[0m
+2018/06/05 22:23:25 [1;34m[I] [category.go:77] [{64 golang  使用neo4j golang   neo4j 1. neo4j是图形数据库
+2.用于关系形的数据存储
+
+3 golang  使用 github.com/johnnadratowski/golang-neo4j-bolt-driver   neo4j驱动 1. neo4j是图形数据库
+2.用于关系形的数据存储
+
+3 golang  使用 github.com/johnnadratowski/golang-neo4j-bolt-driver   neo4j驱动
+
+
+(1)初始化neo4j 连接
+var conn bolt.Conn
+//neo4j 连接
+func GetNeo4jSession() (conn bolt.Conn) {
+    driver := bolt.NewDriver()
+    conn, err := driver.OpenNeo(NEO4J_URL)
+    if err != nil {
+        beego.Error("neo4j连接失败:", err)
+    }
+    return
+}
+
+func init() {
+    conn = GetNeo4jSession()
+}
+
+
+
+
+type User struct {
+    Id int
+    Uid int
+    Name string
+    Age int
+}
+(2)简单创建一个node对象
+func QuickNdirty(u *User) {
+    conn := utils.GetNeo4jSession()
+    defer conn.Close()
+    userMap := map[string]interface{}{"uid": u.Uid, "name": u.Name, "age": u.Age}
+    //创建 node
+    cql := `CREATE ( n:NODE {uid :{uid},name:{name},age:{age}})`
+    result, err := conn.ExecNeo(cql, userMap)
+    if err != nil {
+        beego.Info(err)
+    }
+    beego.Info(result)
+}
+
+  2 0xc4201f21c0 0xc420506f00 2018-01-08 17:16:37 +0800 CST 2018-01-08 17:16:37 +0800 CST} {62 go 原生库 golang golang 原生库学习 func init() {
+    //字符串是否相同
+    a := "111"
+    b := "222"
+    flag := strings.EqualFold(a, b)
+    beego.Info(flag)
+
+    //前缀字符串
+    a = "a"
+    b = "a_b"
+    flag = strings.HasPrefix(b, a)
+    beego.Info(flag)
+
+    //后缀字符串
+    flag = strings.HasSuffix(b, a)
+    beego.Info(flag)
+
+    //b包含a 是否子串
+    flag = strings.Contains(b, a)
+    beego.Info(flag)
+
+    //b包含s rune[0] utf-8码值
+    s := []rune(b)
+    flag = strings.ContainsRune(b, s[0])
+    beego.Info(flag)
+
+    //b是否包含c中的任意字符
+    c := "a312"
+    flag = strings.ContainsAny(b, c)
+    beego.Info(flag)
+
+    //c中有几个不重复的a
+    con := strings.Count(c, a)
+    beego.Info(con)
+
+    //a在b的下标位置
+    idx := strings.Index(c, a)
+    beego.Info(idx)
+
+    w := byte(1)
+    idxb := strings.IndexByte(c, w)
+    beego.Info(idxb)
+}
+  12 0xc4201f2230 0xc420506f80 2018-01-07 20:43:04 +0800 CST 2018-01-07 20:43:04 +0800 CST}] [0m
+2018/06/05 22:23:25 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:23:25 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:23:25 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:23:25 [1;34m[D] [server.go:2619] |  112.10.25.162|[42m 200 [0m| 471.331938ms|   match|[44m GET     [0m /article/67   r:/article/:id[0m
+2018/06/05 22:23:27 [1;34m[D] [server.go:2619] |  112.10.25.162|[42m 200 [0m|    138.893µs|   match|[44m GET     [0m /static/css/customer.css[0m
+2018/06/05 22:23:27 [1;34m[D] [server.go:2619] |  112.10.25.162|[42m 200 [0m|    302.356µs|   match|[44m GET     [0m /static/css/app.css[0m
+2018/06/05 22:23:28 [1;34m[D] [server.go:2619] |  112.10.25.162|[42m 200 [0m|     266.55µs|   match|[44m GET     [0m /static/js/jquery-1.9.1.min.js[0m
+2018/06/05 22:23:31 [1;34m[D] [server.go:2619] |  112.10.25.162|[42m 200 [0m|    353.324µs|   match|[44m GET     [0m /static/1.0.8/iconfont.css[0m
+2018/06/05 22:23:32 [1;34m[D] [server.go:2619] |  112.10.25.162|[42m 200 [0m|    279.103µs|   match|[44m GET     [0m /static/js/bootstrap.min.js[0m
+2018/06/05 22:23:32 [1;34m[D] [server.go:2619] |  112.10.25.162|[42m 200 [0m|    150.599µs|   match|[44m GET     [0m /static/js/common.js[0m
+2018/06/05 22:23:32 [1;34m[D] [server.go:2619] |  112.10.25.162|[42m 200 [0m|     251.66µs|   match|[44m GET     [0m /static/css/editormd.css[0m
+2018/06/05 22:23:33 [1;34m[D] [server.go:2619] |  112.10.25.162|[42m 200 [0m|    117.782µs|   match|[44m GET     [0m /static/js/lib/marked.min.js[0m
+2018/06/05 22:23:34 [1;34m[D] [server.go:2619] |  112.10.25.162|[42m 200 [0m|    245.144µs|   match|[44m GET     [0m /static/js/lib/prettify.min.js[0m
+2018/06/05 22:23:35 [1;34m[D] [server.go:2619] |  112.10.25.162|[42m 200 [0m|    273.514µs|   match|[44m GET     [0m /static/js/lib/raphael.min.js[0m
+2018/06/05 22:23:35 [1;34m[D] [server.go:2619] |  112.10.25.162|[42m 200 [0m|    198.954µs|   match|[44m GET     [0m /static/js/lib/underscore.min.js[0m
+2018/06/05 22:23:37 [1;34m[D] [server.go:2619] |  112.10.25.162|[42m 200 [0m|    560.923µs|   match|[44m GET     [0m /static/js/lib/sequence-diagram.min.js[0m
+2018/06/05 22:23:37 [1;34m[D] [server.go:2619] |  112.10.25.162|[42m 200 [0m|    319.115µs|   match|[44m GET     [0m /static/js/lib/flowchart.min.js[0m
+2018/06/05 22:23:39 [1;34m[D] [server.go:2619] |  112.10.25.162|[42m 200 [0m|     137.72µs|   match|[44m GET     [0m /static/js/lib/jquery.flowchart.min.js[0m
+2018/06/05 22:23:40 [1;34m[D] [server.go:2619] |  112.10.25.162|[42m 200 [0m|    410.398µs|   match|[44m GET     [0m /static/js/editormd.min.js[0m
+2018/06/05 22:23:41 [1;34m[D] [server.go:2619] |  112.10.25.162|[42m 200 [0m|    203.522µs|   match|[44m GET     [0m /static/images/github.png[0m
+2018/06/05 22:23:41 [1;34m[D] [server.go:2619] |  112.10.25.162|[42m 200 [0m|    244.525µs|   match|[44m GET     [0m /static/images/logo.svg[0m
+2018/06/05 22:23:42 [1;34m[D] [server.go:2619] |  112.10.25.162|[42m 200 [0m|    251.379µs|   match|[44m GET     [0m /static/images/weibo.png[0m
+2018/06/05 22:24:52 [1;34m[D] [server.go:2619] |  112.10.25.162|[42m 200 [0m|    282.023µs|   match|[44m GET     [0m /static/uploads/picture/2018/06/05/NW6CYU20.jpeg[0m
+2018/06/05 22:24:55 [1;34m[D] [server.go:2619] |  112.10.25.162|[42m 200 [0m|    291.413µs|   match|[44m GET     [0m /static/fonts/fontawesome-webfont.woff2[0m
+2018/06/05 22:25:01 [1;34m[D] [server.go:2619] |  112.10.25.162|[42m 200 [0m|    258.604µs|   match|[44m GET     [0m /static/uploads/picture/2018/06/05/hY6M7tE0.jpeg[0m
+2018/06/05 22:25:23 [1;34m[I] [category.go:77] [{64 golang  使用neo4j golang   neo4j 1. neo4j是图形数据库
+2.用于关系形的数据存储
+
+3 golang  使用 github.com/johnnadratowski/golang-neo4j-bolt-driver   neo4j驱动 1. neo4j是图形数据库
+2.用于关系形的数据存储
+
+3 golang  使用 github.com/johnnadratowski/golang-neo4j-bolt-driver   neo4j驱动
+
+
+(1)初始化neo4j 连接
+var conn bolt.Conn
+//neo4j 连接
+func GetNeo4jSession() (conn bolt.Conn) {
+    driver := bolt.NewDriver()
+    conn, err := driver.OpenNeo(NEO4J_URL)
+    if err != nil {
+        beego.Error("neo4j连接失败:", err)
+    }
+    return
+}
+
+func init() {
+    conn = GetNeo4jSession()
+}
+
+
+
+
+type User struct {
+    Id int
+    Uid int
+    Name string
+    Age int
+}
+(2)简单创建一个node对象
+func QuickNdirty(u *User) {
+    conn := utils.GetNeo4jSession()
+    defer conn.Close()
+    userMap := map[string]interface{}{"uid": u.Uid, "name": u.Name, "age": u.Age}
+    //创建 node
+    cql := `CREATE ( n:NODE {uid :{uid},name:{name},age:{age}})`
+    result, err := conn.ExecNeo(cql, userMap)
+    if err != nil {
+        beego.Info(err)
+    }
+    beego.Info(result)
+}
+
+  2 0xc4201f2000 0xc420286080 2018-01-08 17:16:37 +0800 CST 2018-01-08 17:16:37 +0800 CST} {62 go 原生库 golang golang 原生库学习 func init() {
+    //字符串是否相同
+    a := "111"
+    b := "222"
+    flag := strings.EqualFold(a, b)
+    beego.Info(flag)
+
+    //前缀字符串
+    a = "a"
+    b = "a_b"
+    flag = strings.HasPrefix(b, a)
+    beego.Info(flag)
+
+    //后缀字符串
+    flag = strings.HasSuffix(b, a)
+    beego.Info(flag)
+
+    //b包含a 是否子串
+    flag = strings.Contains(b, a)
+    beego.Info(flag)
+
+    //b包含s rune[0] utf-8码值
+    s := []rune(b)
+    flag = strings.ContainsRune(b, s[0])
+    beego.Info(flag)
+
+    //b是否包含c中的任意字符
+    c := "a312"
+    flag = strings.ContainsAny(b, c)
+    beego.Info(flag)
+
+    //c中有几个不重复的a
+    con := strings.Count(c, a)
+    beego.Info(con)
+
+    //a在b的下标位置
+    idx := strings.Index(c, a)
+    beego.Info(idx)
+
+    w := byte(1)
+    idxb := strings.IndexByte(c, w)
+    beego.Info(idxb)
+}
+  12 0xc4201f2070 0xc420286100 2018-01-07 20:43:04 +0800 CST 2018-01-07 20:43:04 +0800 CST}] [0m
+2018/06/05 22:25:23 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:25:23 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:25:23 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:25:23 [1;34m[D] [server.go:2619] | 223.104.247.13|[42m 200 [0m| 322.093166ms|   match|[44m GET     [0m /article/67   r:/article/:id[0m
+2018/06/05 22:25:24 [1;34m[D] [server.go:2619] | 223.104.247.13|[42m 200 [0m|    202.759µs|   match|[44m GET     [0m /static/css/customer.css[0m
+2018/06/05 22:25:28 [1;34m[D] [server.go:2619] | 223.104.247.13|[42m 200 [0m|    317.732µs|   match|[44m GET     [0m /static/js/jquery-1.9.1.min.js[0m
+2018/06/05 22:25:28 [1;34m[D] [server.go:2619] | 223.104.247.13|[42m 200 [0m|    498.146µs|   match|[44m GET     [0m /static/css/app.css[0m
+2018/06/05 22:25:28 [1;34m[D] [server.go:2619] | 223.104.247.13|[42m 200 [0m|    158.496µs|   match|[44m GET     [0m /static/1.0.8/iconfont.css[0m
+2018/06/05 22:25:31 [1;34m[D] [server.go:2619] | 223.104.247.13|[42m 200 [0m|    349.116µs|   match|[44m GET     [0m /static/js/bootstrap.min.js[0m
+2018/06/05 22:25:31 [1;34m[D] [server.go:2619] | 223.104.247.13|[42m 200 [0m|    197.655µs|   match|[44m GET     [0m /static/js/common.js[0m
+2018/06/05 22:25:32 [1;34m[D] [server.go:2619] | 223.104.247.13|[42m 200 [0m|    396.702µs|   match|[44m GET     [0m /static/css/editormd.css[0m
+2018/06/05 22:25:32 [1;34m[D] [server.go:2619] | 223.104.247.13|[42m 200 [0m|    286.797µs|   match|[44m GET     [0m /static/js/lib/marked.min.js[0m
+2018/06/05 22:25:32 [1;34m[D] [server.go:2619] | 223.104.247.13|[42m 200 [0m|    258.842µs|   match|[44m GET     [0m /static/css/font-awesome.min.css[0m
+2018/06/05 22:25:33 [1;34m[D] [server.go:2619] | 223.104.247.13|[42m 200 [0m|    117.361µs|   match|[44m GET     [0m /static/js/lib/prettify.min.js[0m
+2018/06/05 22:25:33 [1;34m[D] [server.go:2619] | 223.104.247.13|[42m 200 [0m|    184.474µs|   match|[44m GET     [0m /static/js/lib/underscore.min.js[0m
+2018/06/05 22:25:33 [1;34m[D] [server.go:2619] | 223.104.247.13|[42m 200 [0m|    196.756µs|   match|[44m GET     [0m /static/js/lib/raphael.min.js[0m
+2018/06/05 22:25:34 [1;34m[D] [server.go:2619] | 223.104.247.13|[42m 200 [0m|    332.414µs|   match|[44m GET     [0m /static/js/lib/flowchart.min.js[0m
+2018/06/05 22:25:34 [1;34m[D] [server.go:2619] | 223.104.247.13|[42m 200 [0m|   2.466392ms|   match|[44m GET     [0m /static/js/lib/sequence-diagram.min.js[0m
+2018/06/05 22:25:35 [1;34m[D] [server.go:2619] | 223.104.247.13|[42m 200 [0m|    116.625µs|   match|[44m GET     [0m /static/js/lib/jquery.flowchart.min.js[0m
+2018/06/05 22:25:36 [1;34m[D] [server.go:2619] | 223.104.247.13|[42m 200 [0m|    242.921µs|   match|[44m GET     [0m /static/js/editormd.min.js[0m
+2018/06/05 22:25:36 [1;34m[D] [server.go:2619] | 223.104.247.13|[42m 200 [0m|    213.819µs|   match|[44m GET     [0m /static/images/logo.svg[0m
+2018/06/05 22:25:36 [1;34m[D] [server.go:2619] | 223.104.247.13|[42m 200 [0m|    110.847µs|   match|[44m GET     [0m /static/images/github.png[0m
+2018/06/05 22:25:36 [1;34m[D] [server.go:2619] | 223.104.247.13|[42m 200 [0m|    139.101µs|   match|[44m GET     [0m /static/images/weibo.png[0m
+2018/06/05 22:25:39 [1;34m[D] [server.go:2619] | 223.104.247.13|[42m 200 [0m|    228.081µs|   match|[44m GET     [0m /static/uploads/picture/2018/06/05/NW6CYU20.jpeg[0m
+2018/06/05 22:25:41 [1;34m[D] [server.go:2619] | 223.104.247.13|[42m 200 [0m|    282.424µs|   match|[44m GET     [0m /static/fonts/fontawesome-webfont.woff2[0m
+2018/06/05 22:25:43 [1;34m[D] [server.go:2619] | 223.104.247.13|[42m 200 [0m|    297.019µs|   match|[44m GET     [0m /static/uploads/picture/2018/06/05/hY6M7tE0.jpeg[0m
+2018/06/05 22:37:44 [1;34m[I] [category.go:77] [{64 golang  使用neo4j golang   neo4j 1. neo4j是图形数据库
+2.用于关系形的数据存储
+
+3 golang  使用 github.com/johnnadratowski/golang-neo4j-bolt-driver   neo4j驱动 1. neo4j是图形数据库
+2.用于关系形的数据存储
+
+3 golang  使用 github.com/johnnadratowski/golang-neo4j-bolt-driver   neo4j驱动
+
+
+(1)初始化neo4j 连接
+var conn bolt.Conn
+//neo4j 连接
+func GetNeo4jSession() (conn bolt.Conn) {
+    driver := bolt.NewDriver()
+    conn, err := driver.OpenNeo(NEO4J_URL)
+    if err != nil {
+        beego.Error("neo4j连接失败:", err)
+    }
+    return
+}
+
+func init() {
+    conn = GetNeo4jSession()
+}
+
+
+
+
+type User struct {
+    Id int
+    Uid int
+    Name string
+    Age int
+}
+(2)简单创建一个node对象
+func QuickNdirty(u *User) {
+    conn := utils.GetNeo4jSession()
+    defer conn.Close()
+    userMap := map[string]interface{}{"uid": u.Uid, "name": u.Name, "age": u.Age}
+    //创建 node
+    cql := `CREATE ( n:NODE {uid :{uid},name:{name},age:{age}})`
+    result, err := conn.ExecNeo(cql, userMap)
+    if err != nil {
+        beego.Info(err)
+    }
+    beego.Info(result)
+}
+
+  2 0xc4200f20e0 0xc420286680 2018-01-08 17:16:37 +0800 CST 2018-01-08 17:16:37 +0800 CST} {62 go 原生库 golang golang 原生库学习 func init() {
+    //字符串是否相同
+    a := "111"
+    b := "222"
+    flag := strings.EqualFold(a, b)
+    beego.Info(flag)
+
+    //前缀字符串
+    a = "a"
+    b = "a_b"
+    flag = strings.HasPrefix(b, a)
+    beego.Info(flag)
+
+    //后缀字符串
+    flag = strings.HasSuffix(b, a)
+    beego.Info(flag)
+
+    //b包含a 是否子串
+    flag = strings.Contains(b, a)
+    beego.Info(flag)
+
+    //b包含s rune[0] utf-8码值
+    s := []rune(b)
+    flag = strings.ContainsRune(b, s[0])
+    beego.Info(flag)
+
+    //b是否包含c中的任意字符
+    c := "a312"
+    flag = strings.ContainsAny(b, c)
+    beego.Info(flag)
+
+    //c中有几个不重复的a
+    con := strings.Count(c, a)
+    beego.Info(con)
+
+    //a在b的下标位置
+    idx := strings.Index(c, a)
+    beego.Info(idx)
+
+    w := byte(1)
+    idxb := strings.IndexByte(c, w)
+    beego.Info(idxb)
+}
+  12 0xc4200f2230 0xc420286700 2018-01-07 20:43:04 +0800 CST 2018-01-07 20:43:04 +0800 CST}] [0m
+2018/06/05 22:37:44 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:37:44 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:37:44 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:37:44 [1;34m[D] [server.go:2619] | 223.104.247.13|[42m 200 [0m| 300.036839ms|   match|[44m GET     [0m /article/67   r:/article/:id[0m
+2018/06/05 22:37:45 [1;34m[D] [server.go:2619] | 223.104.247.13|[47m 304 [0m|    124.385µs|   match|[44m GET     [0m /static/uploads/picture/2018/06/05/hY6M7tE0.jpeg[0m
+2018/06/05 22:37:53 [1;34m[D] [server.go:2619] | 223.104.247.13|[47m 304 [0m|    142.936µs|   match|[44m GET     [0m /static/uploads/picture/2018/06/05/NW6CYU20.jpeg[0m
+2018/06/05 22:41:14 [1;34m[I] [category.go:77] [{64 golang  使用neo4j golang   neo4j 1. neo4j是图形数据库
+2.用于关系形的数据存储
+
+3 golang  使用 github.com/johnnadratowski/golang-neo4j-bolt-driver   neo4j驱动 1. neo4j是图形数据库
+2.用于关系形的数据存储
+
+3 golang  使用 github.com/johnnadratowski/golang-neo4j-bolt-driver   neo4j驱动
+
+
+(1)初始化neo4j 连接
+var conn bolt.Conn
+//neo4j 连接
+func GetNeo4jSession() (conn bolt.Conn) {
+    driver := bolt.NewDriver()
+    conn, err := driver.OpenNeo(NEO4J_URL)
+    if err != nil {
+        beego.Error("neo4j连接失败:", err)
+    }
+    return
+}
+
+func init() {
+    conn = GetNeo4jSession()
+}
+
+
+
+
+type User struct {
+    Id int
+    Uid int
+    Name string
+    Age int
+}
+(2)简单创建一个node对象
+func QuickNdirty(u *User) {
+    conn := utils.GetNeo4jSession()
+    defer conn.Close()
+    userMap := map[string]interface{}{"uid": u.Uid, "name": u.Name, "age": u.Age}
+    //创建 node
+    cql := `CREATE ( n:NODE {uid :{uid},name:{name},age:{age}})`
+    result, err := conn.ExecNeo(cql, userMap)
+    if err != nil {
+        beego.Info(err)
+    }
+    beego.Info(result)
+}
+
+  2 0xc4201f2070 0xc420506100 2018-01-08 17:16:37 +0800 CST 2018-01-08 17:16:37 +0800 CST} {62 go 原生库 golang golang 原生库学习 func init() {
+    //字符串是否相同
+    a := "111"
+    b := "222"
+    flag := strings.EqualFold(a, b)
+    beego.Info(flag)
+
+    //前缀字符串
+    a = "a"
+    b = "a_b"
+    flag = strings.HasPrefix(b, a)
+    beego.Info(flag)
+
+    //后缀字符串
+    flag = strings.HasSuffix(b, a)
+    beego.Info(flag)
+
+    //b包含a 是否子串
+    flag = strings.Contains(b, a)
+    beego.Info(flag)
+
+    //b包含s rune[0] utf-8码值
+    s := []rune(b)
+    flag = strings.ContainsRune(b, s[0])
+    beego.Info(flag)
+
+    //b是否包含c中的任意字符
+    c := "a312"
+    flag = strings.ContainsAny(b, c)
+    beego.Info(flag)
+
+    //c中有几个不重复的a
+    con := strings.Count(c, a)
+    beego.Info(con)
+
+    //a在b的下标位置
+    idx := strings.Index(c, a)
+    beego.Info(idx)
+
+    w := byte(1)
+    idxb := strings.IndexByte(c, w)
+    beego.Info(idxb)
+}
+  12 0xc4201f20e0 0xc420506180 2018-01-07 20:43:04 +0800 CST 2018-01-07 20:43:04 +0800 CST}] [0m
+2018/06/05 22:41:14 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:41:14 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:41:14 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:41:14 [1;34m[D] [server.go:2619] |223.104.145.252|[42m 200 [0m| 299.193673ms|   match|[44m GET     [0m /article/67   r:/article/:id[0m
+2018/06/05 22:41:15 [1;34m[D] [server.go:2619] |223.104.145.252|[42m 200 [0m|    227.333µs|   match|[44m GET     [0m /static/css/customer.css[0m
+2018/06/05 22:41:16 [1;34m[D] [server.go:2619] |223.104.145.252|[42m 200 [0m|    588.824µs|   match|[44m GET     [0m /static/js/jquery-1.9.1.min.js[0m
+2018/06/05 22:41:16 [1;34m[D] [server.go:2619] |223.104.145.252|[42m 200 [0m|    159.694µs|   match|[44m GET     [0m /static/css/font-awesome.min.css[0m
+2018/06/05 22:41:17 [1;34m[D] [server.go:2619] |223.104.145.252|[42m 200 [0m|    232.083µs|   match|[44m GET     [0m /static/js/bootstrap.min.js[0m
+2018/06/05 22:41:18 [1;34m[D] [server.go:2619] |223.104.145.252|[42m 200 [0m|    196.196µs|   match|[44m GET     [0m /static/js/common.js[0m
+2018/06/05 22:41:19 [1;34m[D] [server.go:2619] |223.104.145.252|[42m 200 [0m|    320.914µs|   match|[44m GET     [0m /static/css/editormd.css[0m
+2018/06/05 22:41:19 [1;34m[D] [server.go:2619] |223.104.145.252|[42m 200 [0m|    122.199µs|   match|[44m GET     [0m /static/js/lib/marked.min.js[0m
+2018/06/05 22:41:20 [1;34m[D] [server.go:2619] |223.104.145.252|[42m 200 [0m|    216.109µs|   match|[44m GET     [0m /static/js/lib/prettify.min.js[0m
+2018/06/05 22:41:20 [1;34m[D] [server.go:2619] |223.104.145.252|[42m 200 [0m|    269.825µs|   match|[44m GET     [0m /static/1.0.8/iconfont.css[0m
+2018/06/05 22:41:21 [1;34m[D] [server.go:2619] |223.104.145.252|[42m 200 [0m|    369.755µs|   match|[44m GET     [0m /static/js/lib/raphael.min.js[0m
+2018/06/05 22:41:21 [1;34m[D] [server.go:2619] |223.104.145.252|[42m 200 [0m|    149.312µs|   match|[44m GET     [0m /static/js/lib/underscore.min.js[0m
+2018/06/05 22:41:22 [1;34m[D] [server.go:2619] |223.104.145.252|[42m 200 [0m|    403.241µs|   match|[44m GET     [0m /static/js/lib/sequence-diagram.min.js[0m
+2018/06/05 22:41:22 [1;34m[D] [server.go:2619] |223.104.145.252|[42m 200 [0m|    324.486µs|   match|[44m GET     [0m /static/js/lib/flowchart.min.js[0m
+2018/06/05 22:41:23 [1;34m[D] [server.go:2619] |223.104.145.252|[42m 200 [0m|    106.882µs|   match|[44m GET     [0m /static/js/lib/jquery.flowchart.min.js[0m
+2018/06/05 22:41:23 [1;34m[D] [server.go:2619] |223.104.145.252|[42m 200 [0m|    260.321µs|   match|[44m GET     [0m /static/js/editormd.min.js[0m
+2018/06/05 22:41:24 [1;34m[D] [server.go:2619] |223.104.145.252|[42m 200 [0m|    131.974µs|   match|[44m GET     [0m /static/images/logo.svg[0m
+2018/06/05 22:41:24 [1;34m[D] [server.go:2619] |223.104.145.252|[42m 200 [0m|     84.954µs|   match|[44m GET     [0m /static/images/github.png[0m
+2018/06/05 22:41:25 [1;34m[D] [server.go:2619] |223.104.145.252|[42m 200 [0m|    136.907µs|   match|[44m GET     [0m /static/images/weibo.png[0m
+2018/06/05 22:42:23 [1;34m[D] [server.go:2619] |223.104.145.252|[42m 200 [0m|     532.75µs|   match|[44m GET     [0m /static/css/app.css[0m
+2018/06/05 22:42:37 [1;34m[D] [server.go:2619] |223.104.145.252|[42m 200 [0m|    285.163µs|   match|[44m GET     [0m /static/uploads/picture/2018/06/05/NW6CYU20.jpeg[0m
+2018/06/05 22:43:02 [1;34m[D] [server.go:2619] |223.104.145.252|[42m 200 [0m|    288.184µs|   match|[44m GET     [0m /static/uploads/picture/2018/06/05/hY6M7tE0.jpeg[0m
+2018/06/05 22:43:50 [1;34m[I] [category.go:77] [{64 golang  使用neo4j golang   neo4j 1. neo4j是图形数据库
+2.用于关系形的数据存储
+
+3 golang  使用 github.com/johnnadratowski/golang-neo4j-bolt-driver   neo4j驱动 1. neo4j是图形数据库
+2.用于关系形的数据存储
+
+3 golang  使用 github.com/johnnadratowski/golang-neo4j-bolt-driver   neo4j驱动
+
+
+(1)初始化neo4j 连接
+var conn bolt.Conn
+//neo4j 连接
+func GetNeo4jSession() (conn bolt.Conn) {
+    driver := bolt.NewDriver()
+    conn, err := driver.OpenNeo(NEO4J_URL)
+    if err != nil {
+        beego.Error("neo4j连接失败:", err)
+    }
+    return
+}
+
+func init() {
+    conn = GetNeo4jSession()
+}
+
+
+
+
+type User struct {
+    Id int
+    Uid int
+    Name string
+    Age int
+}
+(2)简单创建一个node对象
+func QuickNdirty(u *User) {
+    conn := utils.GetNeo4jSession()
+    defer conn.Close()
+    userMap := map[string]interface{}{"uid": u.Uid, "name": u.Name, "age": u.Age}
+    //创建 node
+    cql := `CREATE ( n:NODE {uid :{uid},name:{name},age:{age}})`
+    result, err := conn.ExecNeo(cql, userMap)
+    if err != nil {
+        beego.Info(err)
+    }
+    beego.Info(result)
+}
+
+  2 0xc4201f2000 0xc42025a000 2018-01-08 17:16:37 +0800 CST 2018-01-08 17:16:37 +0800 CST} {62 go 原生库 golang golang 原生库学习 func init() {
+    //字符串是否相同
+    a := "111"
+    b := "222"
+    flag := strings.EqualFold(a, b)
+    beego.Info(flag)
+
+    //前缀字符串
+    a = "a"
+    b = "a_b"
+    flag = strings.HasPrefix(b, a)
+    beego.Info(flag)
+
+    //后缀字符串
+    flag = strings.HasSuffix(b, a)
+    beego.Info(flag)
+
+    //b包含a 是否子串
+    flag = strings.Contains(b, a)
+    beego.Info(flag)
+
+    //b包含s rune[0] utf-8码值
+    s := []rune(b)
+    flag = strings.ContainsRune(b, s[0])
+    beego.Info(flag)
+
+    //b是否包含c中的任意字符
+    c := "a312"
+    flag = strings.ContainsAny(b, c)
+    beego.Info(flag)
+
+    //c中有几个不重复的a
+    con := strings.Count(c, a)
+    beego.Info(con)
+
+    //a在b的下标位置
+    idx := strings.Index(c, a)
+    beego.Info(idx)
+
+    w := byte(1)
+    idxb := strings.IndexByte(c, w)
+    beego.Info(idxb)
+}
+  12 0xc4201f2070 0xc42025a180 2018-01-07 20:43:04 +0800 CST 2018-01-07 20:43:04 +0800 CST}] [0m
+2018/06/05 22:43:50 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:43:50 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:43:50 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:43:50 [1;34m[D] [server.go:2619] |   39.191.1.187|[42m 200 [0m| 300.587324ms|   match|[44m GET     [0m /article/67   r:/article/:id[0m
+2018/06/05 22:43:54 [1;34m[D] [server.go:2619] |   39.191.1.187|[42m 200 [0m|    100.251µs|   match|[44m GET     [0m /static/css/customer.css[0m
+2018/06/05 22:43:56 [1;34m[D] [server.go:2619] |   39.191.1.187|[42m 200 [0m|    541.696µs|   match|[44m GET     [0m /static/css/app.css[0m
+2018/06/05 22:43:58 [1;34m[D] [server.go:2619] |   39.191.1.187|[42m 200 [0m|     289.06µs|   match|[44m GET     [0m /static/js/jquery-1.9.1.min.js[0m
+2018/06/05 22:43:58 [1;34m[D] [server.go:2619] |   39.191.1.187|[42m 200 [0m|    225.215µs|   match|[44m GET     [0m /static/1.0.8/iconfont.css[0m
+2018/06/05 22:43:59 [1;34m[D] [server.go:2619] |   39.191.1.187|[42m 200 [0m|    228.727µs|   match|[44m GET     [0m /static/css/font-awesome.min.css[0m
+2018/06/05 22:43:59 [1;34m[D] [server.go:2619] |   39.191.1.187|[42m 200 [0m|    241.073µs|   match|[44m GET     [0m /static/js/lib/marked.min.js[0m
+2018/06/05 22:43:59 [1;34m[D] [server.go:2619] |   39.191.1.187|[42m 200 [0m|    219.294µs|   match|[44m GET     [0m /static/js/lib/prettify.min.js[0m
+2018/06/05 22:44:00 [1;34m[D] [server.go:2619] |   39.191.1.187|[42m 200 [0m|    302.934µs|   match|[44m GET     [0m /static/js/lib/raphael.min.js[0m
+2018/06/05 22:44:00 [1;34m[D] [server.go:2619] |   39.191.1.187|[42m 200 [0m|    160.131µs|   match|[44m GET     [0m /static/js/lib/underscore.min.js[0m
+2018/06/05 22:44:01 [1;34m[D] [server.go:2619] |   39.191.1.187|[42m 200 [0m|    365.789µs|   match|[44m GET     [0m /static/js/lib/flowchart.min.js[0m
+2018/06/05 22:44:01 [1;34m[D] [server.go:2619] |   39.191.1.187|[42m 200 [0m|    114.432µs|   match|[44m GET     [0m /static/js/lib/jquery.flowchart.min.js[0m
+2018/06/05 22:44:02 [1;34m[D] [server.go:2619] |   39.191.1.187|[42m 200 [0m|   1.128934ms|   match|[44m GET     [0m /static/js/editormd.min.js[0m
+2018/06/05 22:44:03 [1;34m[D] [server.go:2619] |   39.191.1.187|[42m 200 [0m|    179.385µs|   match|[44m GET     [0m /static/js/common.js[0m
+2018/06/05 22:44:04 [1;34m[D] [server.go:2619] |   39.191.1.187|[42m 200 [0m|    159.834µs|   match|[44m GET     [0m /static/css/editormd.css[0m
+2018/06/05 22:44:05 [1;34m[D] [server.go:2619] |   39.191.1.187|[42m 200 [0m|    238.511µs|   match|[44m GET     [0m /static/js/bootstrap.min.js[0m
+2018/06/05 22:44:05 [1;34m[D] [server.go:2619] |   39.191.1.187|[42m 200 [0m|    353.166µs|   match|[44m GET     [0m /static/js/lib/sequence-diagram.min.js[0m
+2018/06/05 22:44:06 [1;34m[D] [server.go:2619] |   39.191.1.187|[42m 200 [0m|     344.25µs|   match|[44m GET     [0m /static/images/logo.svg[0m
+2018/06/05 22:44:09 [1;34m[D] [server.go:2619] |   39.191.1.187|[42m 200 [0m|     73.495µs|   match|[44m GET     [0m /static/images/weibo.png[0m
+2018/06/05 22:44:11 [1;34m[D] [server.go:2619] |   39.191.1.187|[42m 200 [0m|    165.841µs|   match|[44m GET     [0m /static/images/github.png[0m
+2018/06/05 22:47:19 [1;34m[D] [server.go:2619] |223.104.145.252|[42m 200 [0m|  16.399304ms|   match|[44m GET     [0m /static/fonts/fontawesome-webfont.svg[0m
+2018/06/05 22:47:30 [1;34m[D] [server.go:2619] |223.104.145.252|[42m 200 [0m|    168.954µs|   match|[44m GET     [0m /static/images/top.png[0m
+2018/06/05 22:48:11 [1;34m[I] [category.go:77] [{64 golang  使用neo4j golang   neo4j 1. neo4j是图形数据库
+2.用于关系形的数据存储
+
+3 golang  使用 github.com/johnnadratowski/golang-neo4j-bolt-driver   neo4j驱动 1. neo4j是图形数据库
+2.用于关系形的数据存储
+
+3 golang  使用 github.com/johnnadratowski/golang-neo4j-bolt-driver   neo4j驱动
+
+
+(1)初始化neo4j 连接
+var conn bolt.Conn
+//neo4j 连接
+func GetNeo4jSession() (conn bolt.Conn) {
+    driver := bolt.NewDriver()
+    conn, err := driver.OpenNeo(NEO4J_URL)
+    if err != nil {
+        beego.Error("neo4j连接失败:", err)
+    }
+    return
+}
+
+func init() {
+    conn = GetNeo4jSession()
+}
+
+
+
+
+type User struct {
+    Id int
+    Uid int
+    Name string
+    Age int
+}
+(2)简单创建一个node对象
+func QuickNdirty(u *User) {
+    conn := utils.GetNeo4jSession()
+    defer conn.Close()
+    userMap := map[string]interface{}{"uid": u.Uid, "name": u.Name, "age": u.Age}
+    //创建 node
+    cql := `CREATE ( n:NODE {uid :{uid},name:{name},age:{age}})`
+    result, err := conn.ExecNeo(cql, userMap)
+    if err != nil {
+        beego.Info(err)
+    }
+    beego.Info(result)
+}
+
+  2 0xc42027a8c0 0xc42025b400 2018-01-08 17:16:37 +0800 CST 2018-01-08 17:16:37 +0800 CST} {62 go 原生库 golang golang 原生库学习 func init() {
+    //字符串是否相同
+    a := "111"
+    b := "222"
+    flag := strings.EqualFold(a, b)
+    beego.Info(flag)
+
+    //前缀字符串
+    a = "a"
+    b = "a_b"
+    flag = strings.HasPrefix(b, a)
+    beego.Info(flag)
+
+    //后缀字符串
+    flag = strings.HasSuffix(b, a)
+    beego.Info(flag)
+
+    //b包含a 是否子串
+    flag = strings.Contains(b, a)
+    beego.Info(flag)
+
+    //b包含s rune[0] utf-8码值
+    s := []rune(b)
+    flag = strings.ContainsRune(b, s[0])
+    beego.Info(flag)
+
+    //b是否包含c中的任意字符
+    c := "a312"
+    flag = strings.ContainsAny(b, c)
+    beego.Info(flag)
+
+    //c中有几个不重复的a
+    con := strings.Count(c, a)
+    beego.Info(con)
+
+    //a在b的下标位置
+    idx := strings.Index(c, a)
+    beego.Info(idx)
+
+    w := byte(1)
+    idxb := strings.IndexByte(c, w)
+    beego.Info(idxb)
+}
+  12 0xc42027a930 0xc42025b480 2018-01-07 20:43:04 +0800 CST 2018-01-07 20:43:04 +0800 CST}] [0m
+2018/06/05 22:48:11 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:48:11 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:48:11 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:48:11 [1;34m[D] [server.go:2619] |223.104.145.252|[42m 200 [0m| 375.404096ms|   match|[44m GET     [0m /article/62   r:/article/:id[0m
+2018/06/05 22:48:13 [1;34m[D] [server.go:2619] |223.104.145.252|[42m 200 [0m|    397.004µs|   match|[44m GET     [0m /static/fonts/fontawesome-webfont.woff2[0m
+2018/06/05 22:49:54 [1;34m[I] [category.go:77] [{64 golang  使用neo4j golang   neo4j 1. neo4j是图形数据库
+2.用于关系形的数据存储
+
+3 golang  使用 github.com/johnnadratowski/golang-neo4j-bolt-driver   neo4j驱动 1. neo4j是图形数据库
+2.用于关系形的数据存储
+
+3 golang  使用 github.com/johnnadratowski/golang-neo4j-bolt-driver   neo4j驱动
+
+
+(1)初始化neo4j 连接
+var conn bolt.Conn
+//neo4j 连接
+func GetNeo4jSession() (conn bolt.Conn) {
+    driver := bolt.NewDriver()
+    conn, err := driver.OpenNeo(NEO4J_URL)
+    if err != nil {
+        beego.Error("neo4j连接失败:", err)
+    }
+    return
+}
+
+func init() {
+    conn = GetNeo4jSession()
+}
+
+
+
+
+type User struct {
+    Id int
+    Uid int
+    Name string
+    Age int
+}
+(2)简单创建一个node对象
+func QuickNdirty(u *User) {
+    conn := utils.GetNeo4jSession()
+    defer conn.Close()
+    userMap := map[string]interface{}{"uid": u.Uid, "name": u.Name, "age": u.Age}
+    //创建 node
+    cql := `CREATE ( n:NODE {uid :{uid},name:{name},age:{age}})`
+    result, err := conn.ExecNeo(cql, userMap)
+    if err != nil {
+        beego.Info(err)
+    }
+    beego.Info(result)
+}
+
+  2 0xc4201f2070 0xc42025a400 2018-01-08 17:16:37 +0800 CST 2018-01-08 17:16:37 +0800 CST} {62 go 原生库 golang golang 原生库学习 func init() {
+    //字符串是否相同
+    a := "111"
+    b := "222"
+    flag := strings.EqualFold(a, b)
+    beego.Info(flag)
+
+    //前缀字符串
+    a = "a"
+    b = "a_b"
+    flag = strings.HasPrefix(b, a)
+    beego.Info(flag)
+
+    //后缀字符串
+    flag = strings.HasSuffix(b, a)
+    beego.Info(flag)
+
+    //b包含a 是否子串
+    flag = strings.Contains(b, a)
+    beego.Info(flag)
+
+    //b包含s rune[0] utf-8码值
+    s := []rune(b)
+    flag = strings.ContainsRune(b, s[0])
+    beego.Info(flag)
+
+    //b是否包含c中的任意字符
+    c := "a312"
+    flag = strings.ContainsAny(b, c)
+    beego.Info(flag)
+
+    //c中有几个不重复的a
+    con := strings.Count(c, a)
+    beego.Info(con)
+
+    //a在b的下标位置
+    idx := strings.Index(c, a)
+    beego.Info(idx)
+
+    w := byte(1)
+    idxb := strings.IndexByte(c, w)
+    beego.Info(idxb)
+}
+  13 0xc4201f20e0 0xc42025a500 2018-01-07 20:43:04 +0800 CST 2018-01-07 20:43:04 +0800 CST}] [0m
+2018/06/05 22:49:54 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:49:54 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:49:55 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:49:55 [1;34m[D] [server.go:2619] |   39.191.1.187|[42m 200 [0m| 283.138867ms|   match|[44m GET     [0m /article/67   r:/article/:id[0m
+2018/06/05 22:49:56 [1;34m[D] [server.go:2619] |   39.191.1.187|[42m 200 [0m|    337.054µs|   match|[44m GET     [0m /static/css/app.css[0m
+2018/06/05 22:50:01 [1;34m[D] [server.go:2619] |   39.191.1.187|[42m 200 [0m|    177.845µs|   match|[44m GET     [0m /static/images/github.png[0m
+2018/06/05 22:50:01 [1;34m[D] [server.go:2619] |   39.191.1.187|[42m 200 [0m|    358.536µs|   match|[44m GET     [0m /static/fonts/fontawesome-webfont.woff2[0m
+2018/06/05 22:50:02 [1;34m[D] [server.go:2619] |   39.191.1.187|[42m 200 [0m|     204.69µs|   match|[44m GET     [0m /static/fonts/fontawesome-webfont.woff2[0m
+2018/06/05 22:50:04 [1;34m[D] [server.go:2619] |   39.191.1.187|[42m 200 [0m|    197.063µs|   match|[44m GET     [0m /static/images/top.png[0m
+2018/06/05 22:50:04 [1;34m[D] [server.go:2619] |   39.191.1.187|[42m 200 [0m|    359.048µs|   match|[44m GET     [0m /static/uploads/picture/2018/06/05/NW6CYU20.jpeg[0m
+2018/06/05 22:50:04 [1;34m[D] [server.go:2619] |   39.191.1.187|[42m 200 [0m|    150.723µs|   match|[44m GET     [0m /static/uploads/picture/2018/06/05/hY6M7tE0.jpeg[0m
+2018/06/05 22:50:08 [1;34m[D] [server.go:2619] |   39.191.1.187|[42m 200 [0m|     91.025µs|   match|[44m GET     [0m /static/images/favicon.ico[0m
+2018/06/05 22:51:53 [1;34m[I] [category.go:77] [{64 golang  使用neo4j golang   neo4j 1. neo4j是图形数据库
+2.用于关系形的数据存储
+
+3 golang  使用 github.com/johnnadratowski/golang-neo4j-bolt-driver   neo4j驱动 1. neo4j是图形数据库
+2.用于关系形的数据存储
+
+3 golang  使用 github.com/johnnadratowski/golang-neo4j-bolt-driver   neo4j驱动
+
+
+(1)初始化neo4j 连接
+var conn bolt.Conn
+//neo4j 连接
+func GetNeo4jSession() (conn bolt.Conn) {
+    driver := bolt.NewDriver()
+    conn, err := driver.OpenNeo(NEO4J_URL)
+    if err != nil {
+        beego.Error("neo4j连接失败:", err)
+    }
+    return
+}
+
+func init() {
+    conn = GetNeo4jSession()
+}
+
+
+
+
+type User struct {
+    Id int
+    Uid int
+    Name string
+    Age int
+}
+(2)简单创建一个node对象
+func QuickNdirty(u *User) {
+    conn := utils.GetNeo4jSession()
+    defer conn.Close()
+    userMap := map[string]interface{}{"uid": u.Uid, "name": u.Name, "age": u.Age}
+    //创建 node
+    cql := `CREATE ( n:NODE {uid :{uid},name:{name},age:{age}})`
+    result, err := conn.ExecNeo(cql, userMap)
+    if err != nil {
+        beego.Info(err)
+    }
+    beego.Info(result)
+}
+
+  2 0xc4200f20e0 0xc42025a000 2018-01-08 17:16:37 +0800 CST 2018-01-08 17:16:37 +0800 CST} {62 go 原生库 golang golang 原生库学习 func init() {
+    //字符串是否相同
+    a := "111"
+    b := "222"
+    flag := strings.EqualFold(a, b)
+    beego.Info(flag)
+
+    //前缀字符串
+    a = "a"
+    b = "a_b"
+    flag = strings.HasPrefix(b, a)
+    beego.Info(flag)
+
+    //后缀字符串
+    flag = strings.HasSuffix(b, a)
+    beego.Info(flag)
+
+    //b包含a 是否子串
+    flag = strings.Contains(b, a)
+    beego.Info(flag)
+
+    //b包含s rune[0] utf-8码值
+    s := []rune(b)
+    flag = strings.ContainsRune(b, s[0])
+    beego.Info(flag)
+
+    //b是否包含c中的任意字符
+    c := "a312"
+    flag = strings.ContainsAny(b, c)
+    beego.Info(flag)
+
+    //c中有几个不重复的a
+    con := strings.Count(c, a)
+    beego.Info(con)
+
+    //a在b的下标位置
+    idx := strings.Index(c, a)
+    beego.Info(idx)
+
+    w := byte(1)
+    idxb := strings.IndexByte(c, w)
+    beego.Info(idxb)
+}
+  13 0xc4200f2230 0xc42025a180 2018-01-07 20:43:04 +0800 CST 2018-01-07 20:43:04 +0800 CST}] [0m
+2018/06/05 22:51:53 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:51:53 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:51:53 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 22:51:53 [1;34m[D] [server.go:2619] |   39.191.1.187|[42m 200 [0m| 317.384108ms|   match|[44m GET     [0m /article/67   r:/article/:id[0m
+2018/06/05 23:47:54 [1;34m[I] [category.go:77] [{64 golang  使用neo4j golang   neo4j 1. neo4j是图形数据库
+2.用于关系形的数据存储
+
+3 golang  使用 github.com/johnnadratowski/golang-neo4j-bolt-driver   neo4j驱动 1. neo4j是图形数据库
+2.用于关系形的数据存储
+
+3 golang  使用 github.com/johnnadratowski/golang-neo4j-bolt-driver   neo4j驱动
+
+
+(1)初始化neo4j 连接
+var conn bolt.Conn
+//neo4j 连接
+func GetNeo4jSession() (conn bolt.Conn) {
+    driver := bolt.NewDriver()
+    conn, err := driver.OpenNeo(NEO4J_URL)
+    if err != nil {
+        beego.Error("neo4j连接失败:", err)
+    }
+    return
+}
+
+func init() {
+    conn = GetNeo4jSession()
+}
+
+
+
+
+type User struct {
+    Id int
+    Uid int
+    Name string
+    Age int
+}
+(2)简单创建一个node对象
+func QuickNdirty(u *User) {
+    conn := utils.GetNeo4jSession()
+    defer conn.Close()
+    userMap := map[string]interface{}{"uid": u.Uid, "name": u.Name, "age": u.Age}
+    //创建 node
+    cql := `CREATE ( n:NODE {uid :{uid},name:{name},age:{age}})`
+    result, err := conn.ExecNeo(cql, userMap)
+    if err != nil {
+        beego.Info(err)
+    }
+    beego.Info(result)
+}
+
+  2 0xc4204e6230 0xc42025b400 2018-01-08 17:16:37 +0800 CST 2018-01-08 17:16:37 +0800 CST} {62 go 原生库 golang golang 原生库学习 func init() {
+    //字符串是否相同
+    a := "111"
+    b := "222"
+    flag := strings.EqualFold(a, b)
+    beego.Info(flag)
+
+    //前缀字符串
+    a = "a"
+    b = "a_b"
+    flag = strings.HasPrefix(b, a)
+    beego.Info(flag)
+
+    //后缀字符串
+    flag = strings.HasSuffix(b, a)
+    beego.Info(flag)
+
+    //b包含a 是否子串
+    flag = strings.Contains(b, a)
+    beego.Info(flag)
+
+    //b包含s rune[0] utf-8码值
+    s := []rune(b)
+    flag = strings.ContainsRune(b, s[0])
+    beego.Info(flag)
+
+    //b是否包含c中的任意字符
+    c := "a312"
+    flag = strings.ContainsAny(b, c)
+    beego.Info(flag)
+
+    //c中有几个不重复的a
+    con := strings.Count(c, a)
+    beego.Info(con)
+
+    //a在b的下标位置
+    idx := strings.Index(c, a)
+    beego.Info(idx)
+
+    w := byte(1)
+    idxb := strings.IndexByte(c, w)
+    beego.Info(idxb)
+}
+  14 0xc4204e62a0 0xc42025b480 2018-01-07 20:43:04 +0800 CST 2018-01-07 20:43:04 +0800 CST}] [0m
+2018/06/05 23:47:54 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 23:47:54 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 23:47:54 [1;34m[I] [category.go:77] [] [0m
+2018/06/05 23:47:54 [1;34m[D] [server.go:2619] |  112.10.110.45|[42m 200 [0m|   347.8745ms|   match|[44m GET     [0m /article/67   r:/article/:id[0m
+2018/06/05 23:47:55 [1;34m[D] [server.go:2619] |  112.10.110.45|[47m 304 [0m|     73.693µs|   match|[44m GET     [0m /static/images/github.png[0m
+2018/06/05 23:47:55 [1;34m[D] [server.go:2619] |  112.10.110.45|[47m 304 [0m|    148.364µs|   match|[44m GET     [0m /static/images/weibo.png[0m
+2018/06/05 23:55:16 [1;34m[D] [server.go:2619] |   39.191.1.187|[42m 200 [0m|    540.488µs|   match|[44m GET     [0m /static/uploads/picture/2018/06/05/NW6CYU20.jpeg[0m
